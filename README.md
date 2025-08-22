@@ -4,7 +4,7 @@
   <img src="img/header1.png" alt="Header" width="100%">
 </div>
 
-## 🍵 Code | Coffee | Create
+## 🕵 Code | Coffee | Create
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWI3b284MnRsNXFnMHcxMDR2NTk2bDg1N3pzMm80azZxanBnOHBzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TRebCjNbc4dIA/giphy.gif" alt="Coding Animation" width="400">
@@ -42,7 +42,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=anndikapratamma&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -74,12 +74,12 @@
 
 ---
 
-##  Contribution Graph
+## 🐾 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anndikapratamma/anndikapratamma/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anndikapratamma/anndikapratamma/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anndikapratamma/anndikapratamma/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
@@ -87,5 +87,5 @@
 <div align="center">
   <i>"Passionate developer who loves turning coffee into code ☕️➡️💻"</i>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=anndikapratamma&color=blueviolet&style=flat-square&label=Profile+Views)
 </div>
